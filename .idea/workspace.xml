@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b5f4d2-01ee-4455-b253-f7ddaa92ea3b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/employeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/employeeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-db.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,11 +62,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="30" selection-start-column="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -150,10 +176,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/entities/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application-db.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/employeeController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/employeeControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application-db.properties" />
       </list>
     </option>
   </component>
@@ -209,6 +235,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="employee" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="employee" type="b2602c69:ProjectViewProjectNode" />
@@ -314,12 +347,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560926671286</updated>
-      <workItem from="1560926676103" duration="17175000" />
+      <workItem from="1560926676103" duration="17477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17175000" />
+    <option name="totallyTimeSpent" value="17477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1420" height="780" extended-state="0" />
@@ -331,11 +364,11 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24600871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24600871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" sideWeight="0.4992743" weight="0.31976745" />
       <window_info anchor="bottom" id="Spring" weight="0.32994187" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32994187" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007257" side_tool="true" weight="0.31976745" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -583,27 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="76" lean-forward="true" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -646,7 +658,28 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="18" column="75" lean-forward="true" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>
     </entry>
