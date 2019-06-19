@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
+import java.util.List;
+
 @RestController
 @RequestMapping(value = "/employee")
 public class employeeController {
@@ -23,5 +25,11 @@ public class employeeController {
     @RequestMapping(value = "/saveEmp", method = RequestMethod.POST)
     public Employee saveEmployee(@RequestBody EmployeeModel employeeModel) throws Exception{
         return this.employeeService.saveEmp(employeeModel);
+    }
+
+
+    @RequestMapping(value = "/getListOfEmp", method = RequestMethod.GET)
+    public List<Employee> saveEmployee() throws Exception{
+        return this.employeeService.findListOfEmp();
     }
 }
