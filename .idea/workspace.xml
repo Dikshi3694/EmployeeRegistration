@@ -2,10 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04b5f4d2-01ee-4455-b253-f7ddaa92ea3b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/employeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/employeeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/employeeRegistration/employee/Services/EmployeeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/employeeRegistration/employee/Services/EmployeeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/employeeRegistration/employee/controllers/employeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/employeeRegistration/employee/controllers/employeeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/application-db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/application-db.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -15,6 +26,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="199" />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
@@ -30,8 +44,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/EmployeeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+            <state relative-caret-position="333">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#639#640#0" expanded="true" />
@@ -44,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="191">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -53,11 +67,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.8.RELEASE/bff0205b0e1a8219a07309aa90589ad71414ed55/spring-test-5.1.8.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.8.RELEASE/bff0205b0e1a8219a07309aa90589ad71414ed55/spring-test-5.1.8.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.8.RELEASE/4e19ca13005f5175b8cf87c0d3a0df681d2e55c/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/util/UrlPathHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,8 +109,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+            <state relative-caret-position="240">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -83,65 +124,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/entities/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1196#1197#0" expanded="true" />
-                <element signature="e#1225#1226#0" expanded="true" />
-                <element signature="e#1266#1267#0" expanded="true" />
-                <element signature="e#1302#1303#0" expanded="true" />
-                <element signature="e#1343#1344#0" expanded="true" />
-                <element signature="e#1372#1373#0" expanded="true" />
-                <element signature="e#1416#1417#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
-                <element signature="e#1901#1902#0" expanded="true" />
-                <element signature="e#1934#1935#0" expanded="true" />
-                <element signature="e#1986#1987#0" expanded="true" />
-                <element signature="e#2030#2031#0" expanded="true" />
-                <element signature="e#2066#2067#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
-                <element signature="e#2148#2149#0" expanded="true" />
-                <element signature="e#2190#2191#0" expanded="true" />
-                <element signature="e#2228#2229#0" expanded="true" />
-                <element signature="e#2264#2265#0" expanded="true" />
-                <element signature="e#2320#2321#0" expanded="true" />
-                <element signature="e#2370#2371#0" expanded="true" />
-                <element signature="e#2302#2303#0" expanded="true" />
-                <element signature="e#2340#2341#0" expanded="true" />
-                <element signature="e#2470#2471#0" expanded="true" />
-                <element signature="e#2510#2511#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -177,12 +164,13 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/entities/Employee.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/resources/application-db.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/employeeController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/employeeControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java" />
       </list>
     </option>
   </component>
@@ -238,6 +226,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="employee" type="462c0819:PsiDirectoryNode" />
               <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="employee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="employee" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="employee" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="employee" type="b2602c69:ProjectViewProjectNode" />
@@ -320,7 +317,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.EmployeeApplication">
+  <component name="RunManager" selected="Gradle.EmployeeControllerTest">
+    <configuration name="EmployeeControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.employeeRegistration.employee.controllers.EmployeeControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployeeControllerTest.getListEmployee_whenGetEmployees_thenReturnCollectionOfEmployee" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.employeeRegistration.employee.controllers.EmployeeControllerTest.getListEmployee_whenGetEmployees_thenReturnCollectionOfEmployee&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.employeeRegistration.employee.controllers.EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="employee" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.springframework.cloud.config.server.ConfigServerApplication" />
@@ -347,7 +404,17 @@
     <list>
       <item itemvalue="Spring Boot.ConfigServerApplication" />
       <item itemvalue="Spring Boot.EmployeeApplication" />
+      <item itemvalue="Gradle.EmployeeControllerTest.getListEmployee_whenGetEmployees_thenReturnCollectionOfEmployee" />
+      <item itemvalue="Gradle.EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" />
+      <item itemvalue="Gradle.EmployeeControllerTest" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.EmployeeControllerTest" />
+        <item itemvalue="Gradle.EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" />
+        <item itemvalue="Gradle.EmployeeControllerTest.getListEmployee_whenGetEmployees_thenReturnCollectionOfEmployee" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -359,12 +426,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560926671286</updated>
-      <workItem from="1560926676103" duration="17957000" />
+      <workItem from="1560926676103" duration="21523000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 42m 18s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 43m 57s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 46m 28s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 46m 36s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 47m 05s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 47m 42s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest_saveEmployee_whenEmployeeIsRegistered - 2019.06.19 at 22h 48m 27s.xml">
+      <configuration name="EmployeeControllerTest.saveEmployee_whenEmployeeIsRegistered" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest - 2019.06.19 at 22h 49m 00s.xml">
+      <configuration name="EmployeeControllerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest - 2019.06.19 at 22h 49m 34s.xml">
+      <configuration name="EmployeeControllerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="EmployeeControllerTest - 2019.06.19 at 22h 50m 20s.xml">
+      <configuration name="EmployeeControllerTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17957000" />
+    <option name="totallyTimeSpent" value="21523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1420" height="780" extended-state="0" />
@@ -380,7 +479,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" sideWeight="0.4992743" weight="0.31976745" />
       <window_info anchor="bottom" id="Spring" weight="0.32994187" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32994187" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5007257" side_tool="true" weight="0.31976745" />
       <window_info anchor="bottom" id="Java Enterprise" />
@@ -388,7 +487,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40843022" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40843022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -400,6 +499,7 @@
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32946298" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,11 +578,25 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/employee$EmployeeControllerTest.ic" NAME="EmployeeControllerTest Coverage Results" MODIFIED="1560964757884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>request</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>this.iEmployeeRepository.save(employee)</expression-string>
         <language-id>JAVA</language-id>
@@ -587,10 +701,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.1.8.RELEASE/c15860849c0fd44411b990181ffb1d49fb5ddf69/spring-aop-5.1.8.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="195" selection-start-line="195" selection-end-line="195" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/entities/Employee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
-          <caret line="34" column="46" lean-forward="true" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
+          <caret line="34" column="46" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1196#1197#0" expanded="true" />
@@ -621,52 +749,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.1.8.RELEASE/c15860849c0fd44411b990181ffb1d49fb5ddf69/spring-aop-5.1.8.RELEASE-sources.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="195" selection-start-line="195" selection-end-line="195" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/models/EmployeeModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/Services/EmployeeServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+        <state relative-caret-position="240">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="256">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.8.RELEASE/bff0205b0e1a8219a07309aa90589ad71414ed55/spring-test-5.1.8.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockMvcRequestBuilders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        <state relative-caret-position="129">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.8.RELEASE/bff0205b0e1a8219a07309aa90589ad71414ed55/spring-test-5.1.8.RELEASE-sources.jar!/org/springframework/test/web/servlet/request/MockHttpServletRequestBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.8.RELEASE/4e19ca13005f5175b8cf87c0d3a0df681d2e55c/spring-web-5.1.8.RELEASE-sources.jar!/org/springframework/web/util/UrlPathHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/controllers/EmployeeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        <state relative-caret-position="333">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#639#640#0" expanded="true" />
@@ -677,21 +808,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/employeeRegistration/employee/controllers/EmployeeControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="191">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/employeeRegistration/employee/Services/EmployeeService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application-db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
