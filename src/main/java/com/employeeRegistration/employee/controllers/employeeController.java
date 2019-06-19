@@ -29,7 +29,7 @@ public class employeeController {
 
 
     @RequestMapping(value = "/getListOfEmp", method = RequestMethod.GET)
-    public List<Employee> saveEmployee() throws Exception{
+    public List<Employee> getListEmployee() throws Exception{
         return this.employeeService.findListOfEmp();
     }
 }
