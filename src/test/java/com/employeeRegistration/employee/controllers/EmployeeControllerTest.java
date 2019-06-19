@@ -4,13 +4,19 @@ import com.employeeRegistration.employee.entities.Employee;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.web.servlet.MockMvc;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import static org.junit.Assert.*;
 
-public class employeeControllerTest {
+public class EmployeeControllerTest {
+
+    @Autowired
+    private MockMvc mvc;
+
     public Employee employee;
 
     @Before

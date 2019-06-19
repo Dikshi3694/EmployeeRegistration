@@ -13,7 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping(value = "/employee")
-public class employeeController {
+public class EmployeeController {
 
     private EmployeeService employeeService;
 

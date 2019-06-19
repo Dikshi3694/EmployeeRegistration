@@ -25,6 +25,7 @@ public class EmployeeService {
         Employee employee = new Employee(employeeModel.first_name,employeeModel.last_name,employeeModel.gender,dOB,employeeModel.department);
         employee.setCreated(new Date());
         employee.setModified(new Date());
+
     return this.iEmployeeRepository.save(employee);
     }
 
